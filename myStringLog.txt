@@ -1,0 +1,10 @@
+addEnd: Hello world
+partString: Hello
+replPartString: Hello world
+replWholeString: New string
+compareString: 1
+initString: 
+setString: Output setString
+addStart: Output myString Output setString
+numericString: false
+alphabeticString: false
